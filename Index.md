@@ -10,7 +10,8 @@ ABP是一个**开源应用程序框架**,专注于基于ASP.NET Core的Web应用
 
 使用ABP开发新项目的最简单方法是使用启动模板:
 
-* [ASP.NET Core MVC 模板](Getting-Started-AspNetCore-MVC-Template.md)
+* [BusGateway.md](BusGateway.md)
+* [ZigbeeGateway.md](ZigbeeGateway.md)
 
 如果您想从头开始(使用空项目),请手动安装ABP框架并使用以下教程:
 
